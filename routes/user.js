@@ -28,8 +28,8 @@ var transporter = nodemailer.createTransport({
     secure:false,
     requireTLS:true,
     auth : {
-        user:'tndblaze@gmail.com',
-        pass:'blaze@1997'
+        user:'your account usename',
+        pass:'your password'
     },
     // tls:{
     //     rejectUnauthorized : false
